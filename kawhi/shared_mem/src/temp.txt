@@ -1,0 +1,3 @@
+Write done: 1008000 in 0.3515, score 716858
+Read done: 1000004 in 0.3155, score 792503
+Copy done: 1000004 in 0.7771, score 321706

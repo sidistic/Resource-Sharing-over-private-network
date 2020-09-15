@@ -1,0 +1,5 @@
+COUNT|726071|1|lps
+
+real	0m5.862s
+user	0m0.031s
+sys	0m0.005s

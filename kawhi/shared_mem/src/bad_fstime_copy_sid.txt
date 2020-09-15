@@ -1,0 +1,13 @@
+COUNT|1024018|0|KBps
+TIME|0.2
+COUNT|1370236|0|KBps
+TIME|0.2
+COUNT|581183|0|KBps
+TIME|0.4
+
+real	0m12.557s
+user	0m0.018s
+sys	0m0.019s
+Write done: 1008000 in 0.2461, score 1024018
+Read done: 1000004 in 0.1825, score 1370236
+Copy done: 1000004 in 0.4302, score 581183
